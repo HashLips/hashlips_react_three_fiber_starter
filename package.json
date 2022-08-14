@@ -1,0 +1,28 @@
+{
+  "name": "three_playground",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^8.3.1",
+    "next": "12.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "^0.143.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.2",
+    "@types/react": "18.0.17",
+    "@types/react-dom": "18.0.6",
+    "@types/three": "^0.143.0",
+    "eslint": "8.21.0",
+    "eslint-config-next": "12.2.5",
+    "next-transpile-modules": "^9.0.0",
+    "typescript": "4.7.4"
+  }
+}
